@@ -1,0 +1,8 @@
+app.py
+setup.py
+ScreenshotApp.egg-info/PKG-INFO
+ScreenshotApp.egg-info/SOURCES.txt
+ScreenshotApp.egg-info/dependency_links.txt
+ScreenshotApp.egg-info/entry_points.txt
+ScreenshotApp.egg-info/requires.txt
+ScreenshotApp.egg-info/top_level.txt
